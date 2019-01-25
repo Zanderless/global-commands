@@ -1,0 +1,15 @@
+name: GlobalCommands
+version: 0.2
+author: Mrminer969
+main: com.miner.GlobalCommands.Main
+description: This is the global commands plugin that is actually the best
+
+commands:
+  ping:
+    description: Pong!
+  me:
+    description: Tell everyone what you are thinking
+  spawn:
+    description: Teleports you to spawn
+  setspawn:
+    description: Sets the world's spawn

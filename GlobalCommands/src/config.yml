@@ -1,0 +1,7 @@
+#Type none if you want to use the vanilla Join/Leave messaged
+#put {PLAYER} to show the player's name
+firstJoinMessage: '&6Welcome {PLAYER} to the server for the first time!'
+joinMessage: '&a{PLAYER} has joined!'
+leaveMessage: '&a{PLAYER} has left!'
+
+MeMessageColor: '9'
